@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696782589 source:c:\users\91822\desktop\college\ads\package\phonedirectory_b\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<limits>
+
